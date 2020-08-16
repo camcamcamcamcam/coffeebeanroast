@@ -100,3 +100,17 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#tdroastcolour{
+    width: 80%
+}
+
+#tdcommentmode{
+    width: 20%;
+	text-align: left
+}
+
+#dvCommentsHeader{
+    text-align: center;
+	width:622px;
+}
